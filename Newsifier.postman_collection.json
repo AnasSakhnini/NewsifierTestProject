@@ -1,0 +1,38 @@
+{
+	"id": "fc6cf25e-7de5-ea77-7c76-cc759a1f9bfb",
+	"name": "Newsifier",
+	"description": "",
+	"order": [
+		"33f00966-3211-f186-a9ae-e63d69695c65"
+	],
+	"folders": [],
+	"folders_order": [],
+	"timestamp": 1651825360690,
+	"owner": 0,
+	"public": false,
+	"requests": [
+		{
+			"id": "33f00966-3211-f186-a9ae-e63d69695c65",
+			"headers": "",
+			"headerData": [],
+			"url": "http://localhost:8000/api/users",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "GET",
+			"collectionId": "fc6cf25e-7de5-ea77-7c76-cc759a1f9bfb",
+			"data": null,
+			"dataMode": "params",
+			"name": "http://localhost:8000/api/users",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1651825363492,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		}
+	]
+}
